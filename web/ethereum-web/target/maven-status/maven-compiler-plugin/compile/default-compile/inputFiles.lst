@@ -1,0 +1,11 @@
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/model/Saldo.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/model/Transferencia.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/service/TesteService.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/model/Usuario.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/model/Employee.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/controller/ContractController.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/controller/IndexController.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/model/StatusLogin.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/controller/ContractRestURIConstants.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/service/impl/TesteServiceImpl.java
+/home/asimas/projetos/ethereum/web/ethereum-web/src/main/java/com/astarlabs/spring/ethereum/TokenERC20.java
